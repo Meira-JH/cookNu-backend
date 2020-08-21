@@ -5,10 +5,15 @@ cookNu is a back-end development of an imaginary social network for cooking enth
 This back-end consists of an API constructed with Typescript and MySQL languages, using NodeJS as development environment, Express as NodeJS framework for API construction and communicating MySQL Database through Knex's query builder.
 
 The back-end performs the following functions:
+
 :small_orange_diamond: SignUp and Login of users through token authentication (both access and refresh token);
+
 :small_orange_diamond: unilateral follower interaction;
+
 :small_orange_diamond: feed requisition returning only posts whom the user follow;
+
 :small_orange_diamond: posting, editing and deleting recipies;
+
 :small_orange_diamond: comment requisition;
 
 This was a collective effort imagined, executed and revised by [Cazuza Barberino](https://github.com/cazuzabarberino) and me.
