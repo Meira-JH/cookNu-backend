@@ -71,7 +71,7 @@ This code was designed concerned with clean code, TS best practices and Model-Vi
 
 ## Contributing :nerd_face:
 
-This was a collective effort imagined, executed and revised by Natalia Acedo, Gabriela Salvo and me.
+This was a collective effort imagined, executed and revised by [Cazuza Barberino](https://github.com/cazuzabarberino) and me.
 
 Support by:
 <p align="center">
